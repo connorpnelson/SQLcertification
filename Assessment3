@@ -50,11 +50,11 @@ CREATE TABLE students(
 
 INSERT INTO students(first_name,last_name,phone,grad_year,homeroom_number)
 VALUES
-('Mark','Watney','777-555-1234',2035,5)
+('Mark','Watney','7775551234',2035,5)
 
 /* INSERT DATA INTO TEACHERS TABLE /*
 
 INSERT INTO teachers(first_name,last_name,homeroom_number,department,email,phone)
 VALUES
-('Jonas','Salk',5,'Biology','jsalk@school.org','777-555-4321')
+('Jonas','Salk',5,'Biology','jsalk@school.org','7775554321')
 
