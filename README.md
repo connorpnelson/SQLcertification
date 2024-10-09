@@ -1,7 +1,7 @@
 # The Complete SQL Bootcamp Certification
 Showcasing my solutions to my SQL certification's assessment questions and challenge tasks using PostgreSQL in pgAdmin.
 
-# SQL Skills Demonstrated
+# SQL Skills Developed
 
 - Select Statement Fundamentals
 - Group By/Having Statements
