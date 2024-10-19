@@ -15,7 +15,7 @@ Showcasing my solutions to my SQL certification's assessment questions and chall
 - Conditional Expressions and Procedures (CASE, COALESCE, CAST)
 - Creating Views
 - Import/Export Data
-- 
+  
 # Certificate of Completion
 
 [Udemy SQL Certification](https://www.udemy.com/certificate/UC-72bfdaca-b269-4167-a164-01738bb5dc13/)
