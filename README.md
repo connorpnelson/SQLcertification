@@ -15,4 +15,6 @@ Showcasing my solutions to my SQL certification's assessment questions and chall
 - SubQuery
 - Self-Join
 - Creating, Updating and Deleting Databases and Tables
-- Conditional Expressions and Procedures
+- Conditional Expressions and Procedures (CASE, COALESCE, CAST)
+- Creating Views
+- Import/Export Data
